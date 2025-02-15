@@ -1,0 +1,343 @@
+General Instructions :
+Read the following instructions very carefully and strictly follow them :
+(i) This question paper contains 35 questions. All questions are compulsory.
+(ii) This question paper is divided into five Sections	A, B, C, D and E.
+(iii) In Section A	Questions no. 1 to 18 are Multiple Choice (MCQ) type questions, carrying 1 mark each.
+(iv) In Section B	Questions no. 19 to 25 are Very Short Answer (VSA) type questions, carrying 2 marks each.
+(v) In Section C	Questions no. 26 to 30 are Short Answer (SA) type questions, carrying 3 marks each.
+(vi) In Section D	Questions no. 31 to 33 are Long Answer (LA) type questions carrying 5 marks each.
+(vii) In Section E	Questions no. 34 and 35 are case-based questions carrying
+4 marks each.
+(viii) There is no overall choice. However, an internal choice has been provided in 2 questions in Section B, 2 questions in Section C, 3 questions in Section D and 2 questions in Section E.
+(ix) Use of calculators is not allowed.
+Use the following values of physical constants, if required :
+c = 3	108 m/s
+h = 6.63	10 34 Js
+e = 1.6	10 19 C
+0 = 4	10 7 T m A 1
+0 = 8.854	10 12 C2 N 1 m 2
+1	= 9	109 N m2 C 2
+4	0
+Mass of electron (me) = 9.1	10 31 kg
+Mass of neutron = 1.675	10 27 kg
+Mass of proton = 1.673	10 27 kg
+6.023	1023 per gram mole
+Boltzmann constant = 1.38	10 23 JK 1
+
+SECTION A
+
+1. The figure shows variation of current (I) with time (t) in four devices P, Q, R and S. The device in which an alternating current flows is :
+
+(a) P	(b)	Q	(c)	R	(d)	S
+
+2. The electromagnetic waves used in radar systems are :
+
+(a)	Infrared waves(b)Ultraviolet rays(c)	Microwaves(d)X-rays
+3. In a Young	-slit experiment, the fringe width is found to be . If the entire apparatus is immersed in a liquid of refractive index , the new fringe width will be :
+(a) (b)	(c)	(d)	2
+
+4. Photons of energy 4 3 eV are incident on a photosensitive surface of work function 2·3 eV. The stopping potential for photoelectrons is :
+(a) 2·0 eV	(b)	2·3 eV
+(c)	4·3 eV	(d)	6·6 eV
+
+5. Which of the following statements is not true for nuclear forces ?
+(a) They are stronger than Coulomb forces.
+(b) They have about the same magnitude for different pairs of nucleons.
+(c) They are always attractive.
+(d) They saturate as the separation between two nucleons increases.
+
+6. A point charge q is kept at a distance r from an infinitely long straight wire with charge density . The magnitude of the electrostatic force experienced by charge q is :
+
+(a) Zero	(b)
+
+q
+
+
+2	0 r
+
+(c)
+
+q
+
+
+4	0 r
+
+(d)	q
+0 r
+
+
+7. The ratio of the magnitude of magnetic moment to that of angular momentum, of an electron revolving around the nucleus in a hydrogen atom is :
+(a) Zero	(b)   9·27  10 24 C/kg
+(c)   8·8  1010 C/kg	(d)   6·6  10 12 C/kg
+
+8. Which one of the following has negative value of susceptibility ?
+(a) Nickel	(b)   Aluminium
+(c)   Lead	(d)   Iron
+
+9. The difference in mass of 7X nucleus and total mass of its constituent nucleons is 21·00 u. The binding energy per nucleon for this nucleus is equal to the energy equivalent of :
+(a) 3 u	(b)  3·5 u	(c)   7 u	(d)  21 u
+
+10. The threshold voltage for a p-n junction diode used in the circuit is 0·7 V. The type of biasing and current in the circuit are :
+
+
+(a)	Forward biasing, 0 A(b)Reverse biasing, 0 A(c)	Forward biasing, 5 mA(d)Reverse biasing, 2 mA
+11. The direction of induced current in the loop abc is :
+
+(a) along abc if I decreases
+(b) along acb if I increases
+(c) along abc if I is constant
+(d) along abc if I increases
+
+12. An ac voltage v = v0 sin	t is applied to a series combination of a resistor R  and  an  element  X.  The  instantaneous  current  in  the  circuit  is
+I = I0 sin ( t + 4 ). Then which of the following is correct ?
+(a) X is a capacitor and XC =	R
+(b) X is an inductor and XL = R
+(c) X is an inductor and XL =	R
+(d) X is a capacitor and XC = R
+
+13. A plane wavefront is incident on a concave mirror of radius of curvature
+R. The radius of the refracted wavefront will be :
+
+
+(a) 2R	(b)	R	(c)
+
+R	(d)	R
+2	4
+
+
+14. A proton and an alpha particle have the same kinetic energy. The ratio of de Broglie wavelengths associated with the proton to that with the alpha particle is :
+
+(a) 1	(b)	2	(c)	2
+
+(d)	1
+2
+
+
+15. The potential energy of an electron in the second excited state in hydrogen atom is :
+(a) 3·4 eV	(b)	3·02 eV	(c)	1·51 eV	(d)	6·8 eV
+
+Questions number 16 to 18 are Assertion (A) and Reason (R) type questions. Two statements are given	one labelled Assertion (A) and the other labelled Reason
+(R). Select the correct answer from the codes (a), (b), (c) and (d) as given below.
+(a) Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A).
+(b) Both Assertion (A) and Reason (R) are true, but Reason (R) is not
+the correct explanation of the Assertion (A).
+(c) Assertion (A) is true, but Reason (R) is false.
+(d) Assertion (A) is false and Reason (R) is also false.
+
+16. Assertion (A) : A current carrying square loop made of a wire of length L is placed in a magnetic field. It experiences a torque which is greater than the torque on a circular loop made of the same wire carrying the same current in the same magnetic field.
+Reason (R) :  A square loop occupies more area than a circular loop, both made of wire of the same length.
+
+17. Assertion (A) :	             of electrons is
+greater than the number density of holes but the crystal maintains an overall charge neutrality.
+Reason (R) :  The charge of electrons donated by donor atoms is just equal and opposite to that of the ionised donor.
+18. Assertion (A) : When three electric bulbs of power 200 W, 100 W and
+50 W are connected in series to a source, the power consumed by the 50 W bulb is maximum.
+Reason (R) :	In a series circuit, current is the same through each bulb, but the potential difference across each bulb is different.
+
+SECTION B
+
+19. (a)	Obtain an expression for electrostatic potential energy of a system of three charges q, 2q and	3q placed at the vertices of an
+equilateral triangle of side a.	2
+OR
+
+(b) Two small conducting balls A and B of radius r1 and r2 have charges q1 and q2 respectively. They are connected by a wire. Obtain the expression for charges on A and B, in equilibrium.	2
+20. Answer the following giving reasons :	2
+(a)	           
+moving charged particle at every point ?
+(b)	 
+magnetism be modified ?
+
+21. (a)	What is a displacement current ? How is it different from a conduction current ?	2
+OR
+(b)	Write any two characteristics of an electromagnetic wave. Why are microwaves used in radar systems ?	2
+22. The figure shows	2	versus 1 graph for photoelectrons emitted from a
+surface where vm is the maximum speed of electrons and	is the wavelength	of	incident	radiation.	Usi	
+work function of the surface.	2
+
+
+23. Show that the density of a nucleus is independent of its mass number. Why are lighter nuclei more stable than heavier nuclei ?	2
+
+24. Use	
+uniformly charged infinite plane thin sheet.	2
+25. Two identical cells, each of emf E and internal resistance r, are connected with a load resistance R, first in series and then in parallel. Obtain the condition under which the current through R is same in both cases.	2
+SECTION C
+26. (a)	A resistor of 30	and a capacitor of 250	F are connected in series
+to a 200 V, 50 Hz ac source. Calculate (i) the current in the circuit, and (ii) voltage drops across the resistor and the capacitor. (iii) Is the algebraic sum of these voltages more than the source voltage ?
+If yes, solve the paradox.	3
+OR
+(b)	A series LCR circuit with R = 20	, L = 2 H and C = 50	F is connected to a 200 volts ac source of variable frequency. What is
+(i) the amplitude of the current,	and (ii) the average power transferred to the circuit in one complete cycle, at resonance ?
+(iii) Calculate the potential drop across the capacitor.	3
+27. (a)  (i)  In diffraction due to a single slit, the phase difference between light waves reaching a point on the screen is 5 . Explain whether a bright or a dark fringe will be formed at the point.
+(ii) What should the width (a) of each slit be to obtain eight maxima of two double-slit patterns (slit separation d) within the central maximum of the single slit pattern ?
+(iii) Draw the plot of intensity distribution in a diffraction pattern
+due to a single slit.	3
+OR
+
+(b)	(i)	In a	-slit experiment SS2	SS1 = 4 , where S1
+and S2 are the two slits as shown in the figure. Find the path difference (S2P S1P) for constructive and destructive interference at P.
+
+(ii)	What is the effect on the interference fringes in a
+double-slit experiment, if the monochromatic source S is replaced by a source of white light ?	3
+
+28. (a)
+
+ in alpha particle scattering experiment. Identify, situations when impact parameter is (i) minimum, and (ii) very large.
+
+(b)	An electron cannot revolve around the nucleus in a hydrogen atom
+at an arbitrary distance. Explain.	3
+29. Two infinitely long parallel conductors A and B, separated by 2 cm, carry 6 A and 2 A currents in opposite directions respectively. Find :
+(a) the net magnetic field at a point midway between A and B.
+(b) the force acting per unit length on B.	3
+30. (a) Two coplanar concentric circular loops of radii R and r (<< R) are arranged coaxially. Obtain the expression for their mutual inductance.
+
+(b)  A square loop of side 20 cm starts moving at t = 0 with a velocity of 5 cm/s towards a region of uniform magnetic field as shown in the figure. Specify the time interval(s) during which induced emf is
+produced in the loop.	3
+
+
+SECTION D
+
+31. (a)  (i)  Draw a ray diagram to show how the final image is formed at infinity in an astronomical refracting telescope. Obtain an expression for its magnifying power.
+(ii)  Two thin lenses L1 and L2, L1 being a convex lens of focal length 24 cm and L2 a concave lens of focal length 18 cm are placed coaxially at a separation of 45 cm. A 1 cm tall object is
+placed in front of the lens L1 at a distance of 36 cm. Find the location and height of the image formed by the combination.     5
+OR
+(b)  (i)  Explain the working principle of an optical fibre with the help of a diagram. Mention one use of a light pipe.
+(ii)  A ray of light is incident at an angle of 60 on one face of a prism with the prism angle A = 60 . The ray passes symmetrically through the prism. Find the angle of minimum deviation ( m) and refractive index of the material of the
+prism. If the prism is immersed in water, how will  m be
+affected ? Justify your answer.	5
+
+32. (a) (i) A germanium crystal is doped with antimony. With the help of energy-band diagram, explain how the conductivity of the doped crystal is affected.
+(ii) Briefly explain the two processes involved in the formation of a p-n junction.
+(iii) What will the effect of (1) forward biasing, and (2) reverse biasing be on the width of depletion layer in a p-n junction diode ?	5
+OR
+(b) (i)  With the help of a circuit diagram, briefly explain the working of a full-wave rectifier using p-n junction diodes.
+(ii) Draw V  I characteristics of a p-n junction diode. Explain how these characteristics make a diode suitable for rectification.
+(iii) Carbon and silicon have the same lattice structure. Then why
+is carbon an insulator but silicon a semiconductor ?	5
+33. (a)   (i)   Define mobility of electrons. Give its SI units.
+(ii) A steady current flows through a wire AB, as shown in the figure. What happens to the electric field and the drift velocity along the wire ? Justify your answer.
+
+
+
+(iii) Consider the circuit shown in the figure. Find the effective resistance of the circuit and the current drawn from the battery.	5
+
+
+OR
+
+
+(b) (i)	Define electrical conductivity of a wire. Give its SI unit.
+
+(ii) High current is to be drawn safely from (1) a low-voltage battery, and (2) a high-voltage battery. What can you say about the internal resistance of the two batteries ?
+(iii) Calculate the total energy supplied by the batteries to the circuit shown in the figure, in one minute.	5
+
+
+
+SECTION E
+
+34. The lens m  s formula is useful to design lenses of desired focal lengths using surfaces of suitable radii of curvature. The focal length also depends on the refractive index of the material of the lens and the surrounding medium. The refractive index depends on the wavelength of the light used. The power of a lens is related to its focal length.
+Answer the following questions based on the above :
+(a) How will the power of a lens be affected with an increase of wavelength of light ?	1
+(b) The radius of curvature of two surfaces of a convex lens is R each.
+For what value of	of its material will its focal length become equal
+to R ?	1
+(c) The focal length of a concave lens of	= 1·5 is 20 cm in air. It is
+
+completely immersed in water of	=
+
+4 . Calculate its focal length in
+3
+
+water.	2
+OR
+(c)	An object is placed in front of a lens which forms its erect image of magnification 3. The power of the lens is 5 D. Calculate the distance
+of the object and the image from the lens.	2
+35. Electrostatics deals with the study of forces, fields and potentials arising from static charges. Force and electric field, due to a point charge is
+us to find the electric field. A charge/a system of charges like a dipole experience a force/torque in an electric field. Work is required to be done to provide a specific orientation to a dipole with respect to an electric field.
+
+Answer the following questions based on the above :
+(a) Consider a uniformly charged thin conducting shell of radius R. Plot
+
+a graph showing the variation of
+
+|E|
+
+with distance r from the
+
+centre, for points 0	r	3R.	1
+
+(b) The figure shows the variation of potential V with
+
+1 for two point
+r
+
+charges Q1 and Q2, where V is the potential at a distance r due to a
+
+point charge. Find
+
+Q1 .	1
+Q2
+
+
+
+
+
+
+(c) An electric dipole of dipole moment of 6	10 7 C-m is kept in a
+uniform electric field of 104 N/C such that the dipole moment and the electric field are parallel. Calculate the potential energy of the
+dipole.	2
+OR
+(c)	An electric dipole of dipole moment p	is initially kept in a uniform
+electric field	E	such that	p	is perpendicular to	E . Find the amount of work done in rotating the dipole to a position at which p
+becomes antiparallel to E .	2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

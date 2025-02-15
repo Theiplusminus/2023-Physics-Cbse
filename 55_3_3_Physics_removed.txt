@@ -1,0 +1,317 @@
+General Instructions :
+Read the following instructions very carefully and strictly follow them :
+(i) This question paper contains 35 questions. All questions are compulsory.
+(ii) This question paper is divided into five Sections	A, B, C, D and E.
+(iii) In Section A	Questions no. 1 to 18 are Multiple Choice (MCQ) type questions, carrying 1 mark each.
+(iv) In Section B	Questions no. 19 to 25 are Very Short Answer (VSA) type questions, carrying 2 marks each.
+(v) In Section C	Questions no. 26 to 30 are Short Answer (SA) type questions, carrying 3 marks each.
+(vi) In Section D	Questions no. 31 to 33 are Long Answer (LA) type questions carrying 5 marks each.
+(vii) In Section E	Questions no. 34 and 35 are case-based questions carrying
+4 marks each.
+(viii) There is no overall choice. However, an internal choice has been provided in 2 questions in Section B, 2 questions in Section C, 3 questions in Section D and 2 questions in Section E.
+(ix) Use of calculators is not allowed.
+Use the following values of physical constants, if required :
+c = 3	108 m/s
+h = 6.63	10 34 Js
+e = 1.6	10 19 C
+0 = 4	10 7 T m A 1
+0 = 8.854	10 12 C2 N 1 m 2
+1	= 9	109 N m2 C 2
+4	0
+Mass of electron (me) = 9.1	10 31 kg
+Mass of neutron = 1.675	10 27 kg
+Mass of proton = 1.673	10 27 kg
+6.023	1023 per gram mole
+Boltzmann constant = 1.38	10 23 JK 1
+
+SECTION A
+
+1. A battery of emf E and internal resistance r is connected to an external circuit. The potential drop within the battery is proportional to :
+(a) current in the circuit
+(b) total resistance of the circuit
+(c) emf of the battery
+(d) power dissipated in the circuit
+2. The momentum of a photon of wavelength	is :
+
+(a)
+
+h	(b)	h
+c2	c
+
+(c)	h	(d)	zero
+
+3. Two thin long parallel wires A and B are separated by a distance r and carry current I each in the same direction. The force per unit length exerted by A on wire B is :
+0 I	0 I2
+
+(a)
+
+2 r , attractive	(b)	2 r , repulsive
+
+0 I2	0 I
+
+(c)
+
+2 r , attractive	(d)	2 r , repulsive
+
+
+4. Two wires of equal length and radii r and 2r are connected in series. Their resistivities are 2 and  respectively. For the same current passing through the combination, the potential drop across their ends will be in the ratio of :
+(a) 2 : 1	(b)   1 : 2
+(c)   4 : 1	(d)   8 : 1
+5. A capacitor is charged by a battery. Between the plates, during process of charging :
+(a) only displacement current exists.
+(b) only conduction current exists.
+(c) both displacement current and conduction current exist.
+(d) no current exists.
+
+6. In the wave picture of light, the intensity I of light is related to the amplitude A of the wave as :
+(a) I
+(b) I	A
+(c) I	A2
+(d) I	1
+A2
+
+7. For the forward biasing of a p-n junction diode, which of the following statements is not correct ?
+(a) The potential barrier decreases.
+(b) Minority carrier injection occurs.
+(c) Width of depletion layer increases.
+(d) Forward current is due to the diffusion of both holes and electrons.
+
+8. Which of the following graphs correctly represents the variation of the magnitude of the magnetic field outside a straight infinite current
+
+the wire ?
+
+(a) (b)	(c)	(d)
+
+9. Light of frequency 6·4	1014 Hz is incident on a metal of work function 2·14 eV. The maximum kinetic energy of the emitted electrons is about :
+(a) 0·25 eV
+(b) 0·51 eV
+(c) 1·02 eV
+(d) 0·10 eV
+
+10. A voltage signal is described by :
+
+v = V0	for
+= 0	for
+
+0	t	T
+2
+T	t	T 2
+
+for a cycle. Its rms value is :
+(a)	V0
+
+(b)	V0
+(c)	V0 2
+(d)	V0
+11. At a certain temperature in an intrinsic semiconductor, the electrons and holes concentration is 1·5 1016 m 3. When it is doped with a trivalent dopant, hole concentration increases to 4·5 1022 m 3. In the doped semiconductor, the concentration of electrons (ne) will be :
+(a) 3	106 m 3
+(b) 5	107 m 3
+(c) 5	109 m 3
+(d) 6·75	1038 m 3
+12. In a single-slit diffraction experiment, the width of the slit is halved. The width of the central maximum, in the diffraction pattern, will become :
+(a) half
+(b) twice
+(c) four times
+(d) one-fourth
+13. The  ratio  of  maximum  frequency  and  minimum  frequency  of  light
+
+(a) 11
+9
+(b) 9
+5
+(c)  	11
+7
+(d) 	16
+7
+
+14. Two cells of emf E each and internal resistances r and 2r are connected in parallel as shown in the figure. The equivalent emf of the combination is :
+
+(a) zero	(b)	E
+2
+
+(c)
+
+E	(d)	E
+3
+
+
+15. An inductor, a capacitor and a resistor are connected in series across an ac source of voltage. If the frequency of the source is decreased gradually, the reactance of :
+(a) both the inductor and the capacitor decreases.
+(b) inductor decreases and the capacitor increases.
+(c) both the inductor and the capacitor increases.
+(d) inductor increases and the capacitor decreases.
+
+Questions number 16 to 18 are Assertion (A) and Reason (R) type questions. Two statements are given	one labelled Assertion (A) and the other labelled Reason
+(R). Select the correct answer from the codes (a), (b), (c) and (d) as given below.
+(a) Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A).
+(b) Both Assertion (A) and Reason (R) are true, but Reason (R) is not
+the correct explanation of the Assertion (A).
+(c) Assertion (A) is true, but Reason (R) is false.
+(d) Assertion (A) is false and Reason (R) is also false.
+
+
+16. Assertion (A):	The nucleus
+
+7X is more stable than the nucleus
+
+4Y .
+
+
+Reason (R):
+
+7X contains more number of protons.
+
+17. Assertion (A) : The internal resistance of a cell is constant.
+Reason (R) :	Ionic concentration of the electrolyte remains same during use of a cell.
+18. Assertion (A) : When radius of a circular loop carrying a steady current is doubled, its magnetic moment becomes four times.
+Reason (R):	The magnetic moment of a circular loop carrying a steady current is proportional to the area of the loop.
+
+SECTION B
+
+19. Explain the property of a p-n junction which makes it suitable for rectifying alternating voltages. Differentiate between a half-wave and a
+full-wave rectifier.	2
+20. (a)  Draw a graph showing the variation of binding energy per nucleon as a function of mass number A. The binding energy per nucleon for heavy nuclei (A  170) decreases with the increase in mass number.
+Explain.	2
+OR
+(b)	th
+stable orbit in a hydrogen atom.	2
+21.                     
+this current is different from a conduction current.	2
+22. A wire of length L is bent round in the form of (i) a square, and then
+(ii) an equilateral triangle. If current I is passed through each of them, find the ratio of magnetic moment of the square loop to that of the
+triangle.	2
+23. (a)	      did Huygens explain the absence of
+the backwave ?	2
+OR
+(b)	 
+by (i) concave mirror, and (ii) a convex lens.	2
+
+24. The refractive indices of two media A and B are 2 and	respectively.
+What is the critical angle for their interface ?	2
+25. Draw a circuit diagram of a p-n junction diode in (a) forward biasing, and
+(b) reverse biasing. Draw the V	I characteristics for each case.	2
+SECTION C
+26. (a)	An ac source v = vm sin	t is connected across an ideal capacitor.
+Derive the expression for the (i) current flowing in the circuit, and
+(ii) reactance of the capacitor. Plot a graph of current i versus	t.	3
+OR
+(b)  A series combination of an inductor L, a capacitor C and a resistor R is connected across an ac source of voltage in a circuit. Obtain an expression for the average power consumed by the circuit. Find power factor for (i) purely inductive circuit, and (ii) purely resistive
+circuit.	3
+27. (a)	(i)	Prove that the nuclear density is same for all nuclei.
+(ii)	Draw a plot of potential energy of a pair of nucleons as a function of their separation. Draw two inferences from this plot.	3
+OR
+(b) (i) Draw a graph to show the variation of the number of scattered particles detected (N) in Geiger-Marsden experiment as a function of scattering angle ( ).
+(ii)	Discuss briefly two conclusions that can be drawn from this graph and how they lead to the discovery of nucleus in an atom.	3
+
+28. The figure shows a rectangular conductor PQRS in which the arm PQ of length 10 cm and resistance 0·4  is free to move. It is kept in a uniform magnetic field B = 0·2 T acting perpendicular into the plane of PQRS. If
+arm PQ is moved with a velocity v of 5 cm/s as shown, find :	3
+
+(a) the current induced in the loop, and
+(b) the power required to move the arm. (Resistances of arms PS, SR and RQ are negligible.)
+
+29. Obtain a relation between the current flowing in a conductor and drift
+ 	 3
+
+30. (a)	The figure shows de Broglie wavelength ( ) for two particles A and B
+having same charges but different masses as a function of	1  ,
+V
+where V is the potential through which the particles are accelerated.
+
+
+(i) Which of them is heavier and why ?
+(ii) What does the slope of the line represent ?
+(b)	Calculate	the	momentum	of	an	electron	having	de	Broglie wavelength of 3·0 Å.							3
+
+SECTION D
+31. (a)	(i)	Draw a ray diagram showing the formation of a real image of
+radius of
+(ii) A 1·8 m tall person stands in front of a convex lens of focal length 1 m, at a distance of 5 m. Find the position and height
+of the image formed.	5
+OR
+(b) (i)  Draw a ray diagram showing refraction of a ray of light through a triangular glass prism. Hence, obtain the relation for the refractive index ( ) in terms of angle of prism (A) and angle of minimum deviation ( m).
+(ii) The radii of curvature of the two surfaces of a concave lens are 20 cm each. Find the refractive index of the material of the
+lens if its power is  5·0 D.	5
+32. (a)	(i)	Define electric flux and write its SI unit. (ii)		
+due to a uniformly charged infinite plane sheet.
+(iii) A cube of side L is kept in space, as shown in the figure. An
+electric field E = (Ax + B) ^ N exists in the region. Find the
+i	C
+net charge enclosed by the cube.	5
+
+OR
+
+
+(b) (i)	Define electric potential at a point and write its SI unit.
+
+(ii) Two capacitors are connected in series. Derive an expression of the equivalent capacitance of the combination.
+(iii) Two point charges + q and  q are located at points (3a, 0) and (0, 4a) respectively in x-y plane. A third charge Q is kept at the origin. Find the value of Q, in terms of q and a, so that the
+electrostatic potential energy of the system is zero.	5
+33. (a) (i) Write the principle and explain the working of a moving coil galvanometer. A galvanometer as such cannot be used to measure the current in a circuit. Why ?
+(ii) Why is the magnetic field made radial in a moving coil galvanometer ? How is it achieved ?	5
+OR
+(b)	(i)	Derive an expression for magnetic field on the axis of a current carrying circular loop.
+(ii)	Write any two points of difference between a diamagnetic and
+a paramagnetic substance.	5
+
+SECTION E
+34. A beam of electrons moving horizontally with a velocity of 3  107 m/s enters a region between two plates as shown in the figure. A suitable potential difference is applied across the plates such that the electron beam just strikes the edge of the lower plate.
+
+Answer the following questions based on the above :
+(a) How long does an electron take to strike the edge ?	1
+(b) What is the shape of the path followed by the electron and why ?	1
+(c) Find the potential difference applied.	2
+OR
+(c)	Find the magnitude and direction of the magnetic field which should be created in the space between the plates so that the electron beam goes straight undeviated.	2
+
+35. Diffraction of light is bending of light around the corners of an object whose size is comparable with the wavelength of light. Diffraction actually defines the limits of ray optics. This limit for optical instruments is set by the wavelength of light. An experimental arrangement is set up to observe the diffraction pattern due to a single slit.
+Answer the following questions based on the above :
+(a) How	will	the	width	of	central	maximum	be	affected	if	the wavelength of light is increased ?						1
+(b) Under what condition is the first minimum obtained ?	1
+(c) Write two points of difference between interference and diffraction patterns.	2
+OR
+(c)  Two students are separated by a 7 m partition wall in a room 10 m high. If both light and sound waves can bend around obstacles, how is it that the students are unable to see each other even though they
+can converse easily ?	2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

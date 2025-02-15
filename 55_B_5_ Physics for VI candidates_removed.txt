@@ -1,0 +1,262 @@
+General Instructions :
+Read the following instructions very carefully and strictly follow them :
+(i) This	question	paper	contains	35	questions.	All	questions	are
+compulsory.
+(ii) This question paper is divided into five Sections  A, B, C, D and E.
+(iii) In Section A Questions no. 1 to 18 are Multiple Choice (MCQ) type questions, carrying 1 mark each.
+(iv) In Section B Questions no. 19 to 25 are Very Short Answer (VSA) type questions, carrying 2 marks each.
+(v) In Section C Questions no. 26 to 30 are Short Answer (SA) type questions, carrying 3 marks each.
+(vi) In Section D  Questions no. 31 to 33 are Long Answer (LA) type questions carrying 5 marks each.
+(vii) In Section E  Questions no. 34 and 35 are case-based questions carrying 4 marks each.
+(viii) There is no overall choice. However, an internal choice has been provided in 2 questions in Section B, 2 questions in Section C, 3 questions in Section D and 2 questions in Section E.
+(ix) Use of calculators is not allowed.
+Use the following values of physical constants, if required :
+c = 3	108 m/s
+h = 6.63	10 34 Js
+e = 1.6	10 19 C
+0 = 4	10 7 T m A 1
+0 = 8.854	10 12 C2 N 1 m 2
+1	= 9	109 N m2 C 2
+
+4	0
+Mass of electron (me) = 9.1	10 31 kg
+Mass of neutron = 1.675	10 27 kg
+Mass of proton = 1.673	10 27 kg
+6.023	1023 per gram mole
+Boltzmann constant = 1.38	10 23 JK 1
+55(B)	Page 3 of 27	P.T.O.
+
+SECTION A
+
+1. The charge on a body is 8	10 12 C. It means that the body has :
+(a) lost 8	10 12 electrons
+(b) gained 4	1010 electrons
+(c) gained 2	108 electrons
+(d) lost 5	107 electrons
+2. A current flows through a series combination of two copper wires of equal length but their radii are in the ratio of 1 : 2. The ratio of drift velocities of free electrons in the wires will be :
+(a) 8	(b)  4	(c)   2	(d)  1
+
+3. A charged particle at rest is subjected to an external magnetic field B . If no other force acts on the particle, then it will :
+(a) accelerate along B
+(b) remain at rest
+(c) move in a circular path
+
+(d) move with a constant speed along B
+4. The magnetic flux (in SI units) through a coil varies with time as  = 3t2 + 4t + 7. The ratio of emf induced in the coil at t = 2 s to that at t = 1 s will be :
+(a) 2	(b)  0·8
+(c)   1·6	(d)  4
+
+
+55(B)	Page 5 of 27	P.T.O.
+
+5. A current carrying loop is placed in a uniform magnetic field. The torque acting on it does not depend upon the :
+(a) magnetic field	(b)	current in the loop
+(c)	area of the loop	(d)	shape of the loop
+6. Two identical coils carrying equal currents are held concentric with their planes perpendicular to each other. The ratio of the magnitude of magnetic field at the centre of one coil to that of the resultant magnetic field at the centre is :
+
+(a)
+
+(c)
+
+1	(b)
+2
+1	(d)	2
+2
+
+
+7. An electron is revolving around a nucleus in a circular orbit of radius r with a constant speed v. The magnetic moment associated with the circulating current is :
+
+(a) 
+
+evr	(b)	4 evr
+4
+
+(c)	2 evr	(d)
+
+evr 2
+
+8. Which of the following statements is not correct ? (a)
+of energy.
+(b) The	magnitude	of	induced	emf	in	a	coil	is	directly proportional to the rate of change of magnetic flux.
+(c) Inserting	an	iron	core	in	a	coil	decreases	its self-inductance.
+(d) An emf can be induced in a straight conductor by moving it perpendicularly through a uniform magnetic field.
+
+55(B)	Page 7 of 27	P.T.O.
+
+9. In a plane electromagnetic wave, the magnetic field oscillates sinusoidally with a frequency of 3  1010 Hz, and amplitude 2·4  10 8 T. The amplitude of the oscillating electric field is :
+(a) 1·6 Vm 1	(b)  3·2 Vm 1
+(c)   7·2 Vm 1	(d)  8 Vm 1
+10. An object is placed at a distance of 10 cm in front of a concave mirror of radius of curvature 15 cm. The nature and position the image formed is :
+(a) real and inverted, 30 cm in front of the mirror
+(b) real and inverted, 15 cm in front of the mirror
+(c) virtual and erect, 30 cm behind the mirror
+(d) virtual and erect, 15 cm behind the mirror
+
+11. The	energy	of	a	photon	in	a	beam	of	red	light	with	a wavelength of 6·60		10 7 m is close to :
+(a) 4·42	10 19 J	(b)	4·0	10 19 J
+(c)	2·19	10 19 J	(d)	3·0	10 19 J
+12. A photon absorbed by a hydrogen atom excites it from n = 3 level to n = 5 level. The energy of the photon is :
+(a)	+ 0·97 eV	(b)	0·97 eV
+(c)	+1·51 eV	(d)	0·54 eV
+
+13. The number of neutrons in
+
+237Pa
+91
+
+is :
+
+(a) 91	(b)	146	(c)	237	(d)	164
+14. Which of the following is not a semiconductor ?
+(a) Ge	(b)	Si	(c)	Sn	(d)	CdS
+55(B)	Page 9 of 27	P.T.O.
+
+15. In an intrinsic semiconductor, the intrinsic carrier concentration (ni), electron concentration (ne) and hole concentration (nh) are related as :
+(a) ne + nh = ni
+(b) ni =
+(c) ne = nh = ni
+(d) ne + nh = ni
+
+
+Questions number 16 to 18 are Assertion (A) and Reason (R) type questions. Two statements are given  one labelled Assertion (A) and the other labelled Reason (R). Select the correct answer from the codes (a), (b), (c) and (d) as given below.
+(a) Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A).
+(b) Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of the Assertion (A).
+(c) Assertion (A) is true, but Reason (R) is false.
+(d) Assertion (A) is false and Reason (R) is also false.
+
+16. Assertion (A) :	The speed of light decreases when it passes
+from air into a denser medium.
+Reason (R) :	The speed of light in a denser medium is given
+
+by v
+
+c , where c is the speed of light in air
+
+
+
+and	is the refractive index of the denser medium.
+55(B)	Page 11 of 27	P.T.O.
+
+17. Assertion (A) :	Silicon	is	preferred	over	Germanium	for
+making semiconductor devices.
+Reason (R) :	Silicon can be used at a higher temperature as compared to Germanium.
+18. Assertion (A) :	The energy (E) and momentum (p) of a photon
+are related as p	h .
+E
+Reason (R) :    Photons behave as a wave.
+
+SECTION B
+
+19. The terminal potential difference of a cell is 19 V when a current of 1·0 A flows in the circuit. It reduces to 17 V when the current supplied by the cell is 3·0 A. Find the emf and
+internal resistance of the cell.	2
+20. (a)	What is meant by displacement current ? Explain. Give
+an example where such current exists.	2
+OR
+(b)	Write the wavelength range of infrared waves. Why are these waves often called heat waves ? Explain.	2
+21. A glass jug is filled with water to a height of 9·6 cm. The depth of a coin lying on its bottom as measured by a microscope is 7·2 cm. Find the refractive index of the water and the speed of
+light in water.	2
+55(B)	Page 13 of 27	P.T.O.
+
+22. A convex lens is made of the material of refractive index n1. What	will	happen	if	it	were	immersed	in	a	medium	of refractive index n2 in the following cases ?					2
+(a) n2 > n1
+(b) n2 = n1
+23.         
+emitted by an excited hydrogen atom ?	2
+24. Define the following terms in relation to the working of a
+p-n junction diode :	2
+(i) Knee voltage
+(ii) Reverse saturation current
+25. (a)	How are the potential barrier and width of the depletion region	affected	when	a	p-n	junction	diode	is
+(i) forward-biased, and (ii) reverse-biased ?	2
+OR
+(b)	Briefly	explain	doping	of	a	semiconductor	and	its necessity.							2
+SECTION C
+26. Name the factors on which electrical conductivity of a material depends. Obtain the relation between current density in a conductor and the conductivity of its material.	3
+55(B)	Page 15 of 27	P.T.O.
+
+27. (a)	(i)	Differentiate between the resistance and reactance of a series LCR circuit.
+(ii) Explain how a capacitor blocks a direct current and
+an inductor opposes an alternating current.	3
+OR
+(b)	Show mathematically that in an ac circuit containing a pure inductor, the current lags behind the voltage in
+phase by 2 .	3
+28. 
+expression for the self-inductance of a long solenoid of length l, cross-sectional area A and having N turns.	3
+29. 
+for all observations on photoelectric effect.	3
+30. (a)	Explain two main features of the plot of the binding energy per nucleon versus the mass number of the nuclei. Mention two conclusions that can be drawn from these features.	3
+OR
+(b)	Briefly explain the observations made in Geiger-Marsden experiment.	Write	the	important	conclusions	drawn about the structure of atom from these observations.	3
+55(B)	Page 17 of 27	P.T.O.
+
+SECTION D
+
+31. (a)  (i)  What is an electric dipole ? Derive an expression for the torque acting on an electric dipole in a uniform electric field.
+(ii)  An electric dipole with dipole moment 6  10 9 C-m is aligned at an angle of 30  with the direction of a
+uniform electric field of magnitude 4	104 NC 1. Calculate magnitude of the torque acting on the electric dipole.		5
+OR
+(b) (i)	, derive
+an expression for the electric field due to a uniformly charged thin spherical shell of radius R at a point
+(i) outside, and (ii) inside the shell.
+(ii) A point charge of 4		C is at the centre of a cubic Gaussian surface, 1·0 m on edge. Find the electric flux	through	one	of		the	faces	of	the	Gaussian surface.									5
+55(B)	Page 19 of 27	P.T.O.
+
+32. (a) (i) Two long parallel straight conductors carrying current I1 and I2 are kept r distance apart in air.
+Obtain an expression for the force per unit length on one conductor due to the magnetic field produced by the other conductor. Hence, define one ampere. Under what condition will the force between the conductors be attractive in nature ?
+(ii) A closely wound circular coil of radius 6·28 cm, having 50 turns carries a steady current of 4 A. Find the magnetic field at the centre of the coil. How will the magnitude of the magnetic field be affected if the radius of the coil is halved keeping other factors
+same ?	5
+OR
+(b) (i) A particle of mass m and charge q, at the origin moves with a velocity v in xy-plane making an angle   with x-axis. It is subjected to a uniform
+magnetic field B along x-axis. Justify that the particle will move in a helical path. Hence, obtain expression for the radius of the helix.
+(ii) A long straight wire kept horizontally carries a current of 4 A from west to east direction. Find the direction and	magnitude of magnetic field B at a point 20 cm below the wire.	5
+55(B)	Page 21 of 27	P.T.O.
+
+33. (a) (i) What is meant by total internal reflection of light ? Write the two conditions necessary for this phenomenon to occur. Briefly explain one of its technological applications.
+(ii) A thin converging lens of focal length 10 cm is placed coaxially in contact with a thin diverging lens of focal length 15 cm. Find the nature and focal
+length of the combined lens.	5
+OR
+
+(b) (i)	Answer the following giving reasons :
+(1) The angular size of the image equals the angular size of the object in a simple microscope, yet it offers magnification.
+(2) Both the objective and the eyepiece of a compound microscope have short focal lengths.
+(3) A microscope and a telescope play different roles with respect to resolution and magnification of the image.
+(ii)		-slit experiment, the two slits are 1·0 mm apart. They are illuminated with light of wavelength 600 nm. Find the fringe width on a
+screen 2·0 m away from the slits.	5
+55(B)	Page 23 of 27	P.T.O.
+
+SECTION E
+
+
+34. After centuries of efforts, careful studies, experiments and analysis by different scientists, it was concluded that there are two kinds of entities called the electric charge. The property which differentiates the two kinds is called the polarity of charge. The two kinds of charges were named as positive (+) and negative ( ) by American scientist Benjamin Franklin.
+A small sphere S1 with charge 8q is 1·6 m away from another identical sphere S2 with charge +2q. The two spheres are brought in contact with each other and then separated by a
+distance 1·6 m. Initially the force between the two spheres was 8·1  10 4 N.
+Based on the above facts, answer the following questions :
+
+(i) Which sphere will transfer the electrons to the other sphere after they were brought in contact ?	1
+(ii) How does the net electric field at the midpoint on the line joining the two spheres change after contact ?	1
+(iii) What was initial charge on spheres S1 and S2 ?	2
+OR
+(iii)	What is the charge on spheres S1 and S2 after contact ?	2
+
+
+55(B)	Page 25 of 27	P.T.O.
+
+
+35. Diffraction of light : According to rectilinear propagation of light, light travels in a straight line. But Italian scientist Grimaldi discovered that light bends near the edges of the aperture of the obstacles whose size is comparable with the wavelength of light. This phenomenon of bending of light around the corners of an obstacle is called diffraction of light. If we place a screen in front of the slit, the diffraction pattern observed on it is of unequal widths and unequal intensities. The diffraction phenomenon can be explained on the basis of wave nature of light.
+Based on the above facts, answer the following questions :
+(i) What	is	the	most	essential	condition	for	observing diffraction ?						1
+(ii) Which	characteristic	of	light	is	used	in	X-ray crystallography ?							1
+(iii) How does the wave theory of light provide an explanation
+for diffraction ? Explain.	2
+OR
+(iii)	In a single slit diffraction, if red light is replaced by blue light, then how does the diffraction pattern change ?	2
+
+
+
+55(B)	Page 27 of 27
+
+
+
+
+
+

@@ -1,0 +1,298 @@
+General Instructions :
+Read the following instructions very carefully and follow them :
+(i) This	question	paper	contains	35	questions.	All	questions	are compulsory.
+(ii) Question paper is divided into FIVE sections -  Section A, B, C, D
+andE.
+(iii) In Section A: Question number 1 to 18 are Multiple Choice (MCQ) type questions carrying 1 mark each.
+(iv) In Section B: Question number 19 to 25 are Short Answer-1 (SA-1) type questions carrying 2 marks each.
+(v) In Section C: Question number 26 to 30 are Short Answer-2 (SA-2) type questions carrying 3 marks each.
+(vi) In Section D : Question number 31 to 33 are Long Answer (LA) type questions carrying 5 marks each.
+(vii) In Section E : Question number 34 and 35 are Case-fused questions carrying 4 marks each.
+(viii) There is no overall choice. However, an internal choice has been provided in 2 questions in Section-B, 2 questions in Section-C, 3 questions in Section-D and 2 questions in Section-E.
+(ix) Use of calculators is NOT allowed.
+c = 3 x 108 m/s
+h = 6.63 x 10-34 Js
+e = 1. 6 x 10-19 C
+µ0 = 4n x 1o-7 T m A-1
+Eo = 8.854 X 10-12 C2 N-1 m-2
+-1- =9 x 109 N m2 c-2
+41tE0
+Mass of electron (m8) = 9.1 x 10-31 kg Mass of neutron= 1.675 x 10-27 kg Mass of proton= 1.673 x 10-27 kg
+Avogadro's number= 6.023 x 1023 per gram mole Boltzmann constant= 1.38 x 10-23 JK-1
+
+SECTION-A
+1. The ratio of the  magnitudes of the electric field and magnetic field of a plane electromagnetic wave is	1
+
+(a) 1
+(c)	C
+(b) 
+1
+C
+(d)	1
+
+
+
+2. Specify the transition of electron in the wavelength of the line in the Bohr model of hydrogen atom which gives rise to the spectral line of highest wavelength.	1
+(a) n = 3 ton= 1	(b)	n = 3 ton= 2
+(c)	n = 4 ton= 1	(d)	n = 4 ton= 2
+3. A ray of monochromatic light propagating in air, is incident on the surface of water. Which of the following will be the same for the reflected and
+refracted rays ?	1
+
+(a) Energy carried
+(c)	Frequency
+(b) 
+
+(d)
+
+Speed Wavelength
+
+4. The formation of depletion region in a p-n junction diode is due to	1
+(a) movement of dopant atoms	(b)	diffusion of both electrons and holes
+(c)	drift of electrons only	(d)	drift of holes only
+5. An isolated point charge particle produces an electric field Eat	a point
+3 m away from it. The distance of the point at which the field is!will be	1
+
+(a)	2 m
+(c)	4 m
+
+(b)	3 m
+(d)	6 m
+
+
+6. The curve of binding energy per nucleon as a function of atomic mass number has a sharp peak for helium nucleus. This implies that helium nucleus is	1
+(a) radioactive
+(b) unstable
+(c) easily fissionable
+(d) more stable nucleus than its neighbours
+
+7. A steady current of 8 mA flows through a wire. The number of electrons passing through a cross-section of the wire in 10 sis	1
+(a) 4.0 X 1016	(b)	5.0 X 1017
+(c)	1.6 x 1016	(d)	1.0 x 1017
+8. Which one of the  following elements will require the highest energy to take out an electron from them?	1
+Pb, Ge, C and Si
+
+(a)	Ge
+(c)	Si
+
+(b)	C
+(d)	Pb
+
+9. A conductor of 10 Q is connected across a 6 V ideal source. The power supplied by the source to the conductor is	1
+(a) 1.8 W	(b)	2.4 W
+(c)	3.6 W	(d)	7.2 W
+
+10. 
+
+
+
+
+
+11. 
+
+
+In an extrinsic semiconductor, the number density of holes is 4 x 1020 m-3.
+If the number density of intrinsic carriers is 1.2 x 1015 m-3, the number density of electrons in it is	1
+(a) 1.8 x 109 m-3	(b)	2.4 x 1010 m-3
+(c)	3.6 x 109 m-3	(d)	3.2 x 1010 m-3
+A cell of emf E is connected across an external resistance R. When current
+'I' is drawn from the cell, the potential difference across the electrodes of
+the cell drops to V. The internal resistance 'r' of the cell is	1
+(a)	(Ei;V)R	(b)	(E V)
+
+(E-V) R
+(c)	I
+
+(d)	(E;V) R
+
+
+12. A photon of wavelength 663 nm is incident on a metal surface. The work function of the	metal is 1.50 eV. The maximum kinetic energy of the emitted photo electrons is	1
+(a) 3.0 X 10-20 J
+(b) 6.0 X 10-20 J
+(c) 4.5 X 10-20 J
+(d) 9.0 X 10-20 J
+
+13. Beams of electrons and protons move parallel to each other in the same direction. They	1
+(a) attract each other.
+(b) repel each other.
+(c) neither attract nor repel.
+(d) force of attraction or repulsion depends upon speed of beams.
+
+
+14. A ray of light of wavelength 600 nm propagates from air into a medium. If its wavelength in the medium becomes 400 nm, the refractive index of the
+medium is	1
+
+(a) 1.4
+(c)	1.6
+(b) 
+1.5
+(d)	1.8
+
+
+
+15. A long straight wire of radius 'a' carries a steady current 'I'. The current is uniformly	distributed	across its	area	of	cross-section. The	ratio of magnitude of magnetic field B1 at;  and B2 at distance 2a is		1
+
+(a)	1
+2
+(c)	2
+
+
+(b)	1
+
+(d)	4
+
+
+
+Note : In question number 16 to 18 two statements are given - one labelled Assertion (A) and the other labelled Reason (R). Select the correct answer to these questions from the codes (a), (b), (c) and (d) as given below:
+(a) Both Assertion (A) and	Reason (R) are true and Reason (R) is the correct explanation of Assertion (A).
+(b) Both Assertion (A) and Reason (R) are true and Reason (R) is NOT the correct explanation of Assertion (A).
+(c) Assertion (A) is true and Reason (R) is false.
+(d) Assertion (A) is false and Reason (R) is also false.
+
+16. Assertion (A) : Work done in moving a charge around a closed path, in an electric field is always zero.
+Reason (R) : Electrostatic force is a conservative force.	1
+17. Assertion (A) : In Young's double slit experiment all fringes are of equal width.
+Reason (R) : Thefringe width depends upon wavelength of light (11,) used, distance of screen from plane of slits (D) and slits separation (d).	1
+18. Assertion (A) : Diamagnetic substances exhibit magnetism.
+Reason (R) : Diamagnetic materials do not have permanent magnetic dipole moment.	1
+SECTION-B
+19. In a Young's double slit experiment, the separation between the two slits is d and distance of the screen from the slits is 1000 d. If the first minima falls at a distance d from the central maximum, obtain the relation
+between d and A.	2
+20. Draw energy band diagram for an  n-type and p-type semiconductor at
+T > 0 K.	2
+21. Answer the following giving reasons :	2
+(i) A p-n junction diode is damaged by a strong current.
+(ii) Impurities are added in intrinsic semiconductors.
+22. (a)	How are infrared waves produced? Why are these waves referred to
+as heat waves ? Give any two uses of infrared waves.	2
+OR
+(b)	How are X-rays produced? Give any two uses of these.
+23. Briefly	explain why	and	how	a	galvanometer	is converted	into an ammeter.							2
+
+24. (a)	What is meant by ionisation energy ? Write its value for hydrogen atom?	2
+OR
+(b)	Define the term, mass defect. How is it related to stability of the nucleus?
+25. A point object in air is placed symmetrically at a distance of 60 cm in front of a concave spherical surface of refractive index 1.5. If the radius of
+curvature of the surface is 20 cm, find the position of the image formed.	2
+SECTION-C
+26. A series RL circuit with R = 10 Q and L = ( l O) mH is connected to an ac
+source of voltage V = 141 sin (100 n t), where V is in volts and t is in seconds. Calculate	3
+(a) impedence of the circuit
+(b) phase angle, and
+(c) voltage drop across the inductor
+27. A ray of light is incident on a glass prism of refractive index µ and refracting angle A. If it just suffers total internal reflection at the other face, obtain a relation between the angle of incidence, angle of prism and critical angle.	3
+28. (a)	(i)		Distinguish	between	nuclear	fission	and	fusion	g1v1ng	an example of each.
+(ii)	Explain the release of energy in nuclear fission and fusion on
+the basis of binding energy per nucleon curve.	3
+OR
+(b)	(i)	How is the size of a nucleus found experimentally ? Write the relation between the radius and mass number of a nucleus.
+(ii)	Prove that the density of a nucleus is independent of its mass number.
+
+29. Two cells of emf E1 and E2 and internal resistances r1 and r2 are connected in parallel, with their terminals of the same polarity connected together.
+Obtain an expression for the equivalent emf of the combination.	3
+30. (a)		Two charged conducting spheres of radii a and b are connected to each other by a wire. Find the ratio of the	electric fields at their surfaces.		3
+OR
+(b) A parallel plate capacitor (A) of capacitance C is charged by a battery to voltage V. The battery is disconnected and an uncharged capacitor
+(B) of capacitance 2C is connected across A. Find the ratio of
+(i) final charges on A and B.
+(ii) total electrostatic energy stored in A and B finally and that stored in A initially.
+
+
+SECTION-D
+31. (a)	(i)	State Huygen's principle. With the help of a diagram, show how a plane wave is reflected from a surface. Hence verify the law of
+reflection.	5
+(ii)	A concave mirror of focal length 12 cm forms a three times magnified virtual image of an object. Find the distance of the object from the mirror.
+OR
+(b) (i) Draw a labelled ray diagram showing the image formation by a refracting telescope. Define its magnifying power. Write two limitations of a refracting telescope over a reflecting telescope.
+(ii) The focal lengths of the objective and the eye-piece of a compound microscope are 1.0 cm and 2.5 cm respectively. Find the tube length of the microscope for obtaining a magnification of 300.
+
+32. (a)  (i)  Use Gauss' law to obtain an expression for the electric field due to an infinitely long thin straight wire with uniform linear charge density A.
+(ii) An infinitely long positively charged straight wire has a linear charge density A. An electron is revolving in a circle with a constant speed v such that the wire passes through the centre, and is perpendicular to the plane, of the circle. Find the kinetic energy of the electron in terms of magnitudes of its charge and linear charge density A on the wire.
+(iii) Draw a graph of kinetic energy as a function of linear charge density A.	5
+OR
+(b) (i)	Consider two identical point charges located at points (0, 0) and
+(a, 0).
+(1) Is there a point on the line J01n1ng them at which the electric field is zero ?
+(2) Is there a point on the line J01n1ng them at which the electric potential is zero ?
+Justify your answers for each case.
+(ii) State the significance of negative value of electrostatic potential energy of a system of charges.
+Three charges are placed at the corners of an equilateral triangle ABC of side 2.0 m as shown in figure. Calculate the electric potential energy of the system of three charges.
+
+
+33. (a)  (i)  Define coefficient of self-induction. Obtain an expression for self-inductance of a long solenoid of length l, area of cross­ section A having N turns.
+(ii)  Calculate the self-inductance of a coil using the following data
+obtained when an AC source of frequency ( 2 0) Hz and a DC source is applied across the coil.	5
+
+OR
+
+(b) (i) With the help of a labelled diagram, describe the principle and working of an ac generator. Hence, obtain an expression for the instantaneous value of the emf generated.
+(ii) The coil of an ac generator consists of 100 turns of wire, each of area 0.5 m2• The resistance of the  wire is 100 n. The coil is
+rotating in a magnetic field of 0.8 T perpendicular to its axis of rotation, at a constant angular speed of 60 radian per second. Calculate the maximum emf generated and power dissipated in the coil.
+
+SECTION-E
+
+Note : Questions number 34 and 35 are case study based questions. Read the following paragraph and answer the questions.
+
+34. (a)  Figure shows the variation of photoelectric current measured in a photo cell circuit as a function of the potential difference between the plates of the photo cell when light beams A, B, C and D of different wavelengths are incident on the photo cell. Examine the given figure and answer the following questions:
+
+
+(i) Which light beam has the highest frequency and why?
+
+(ii) Which light beam has the longest wavelength and why?
+(iii) Which	light	beam	ejects	photoelectrons	with	maximum momentum and why ?				4
+OR
+(b) What is the effect on threshold frequency and stopping potential on increasing the frequency of incident beam of light ? Justify your answer.
+
+35. (a) Consider the experimental set up shown in the figure. This jumping ring experiment is an outstanding demonstration of some simple laws of Physics. A conducting non-magnetic ring is placed over the vertical core of a solenoid. When current is passed through the solenoid, the ring is thrown off.
+
+Answer the following questions:
+
+(i) Explain the reason of jumping of the ring when the switch is closed in the circuit.
+(ii) What will happen if the terminals of the battery are reversed and the switch is closed? Explain.
+(iii) Explain	the	two	laws	that	help	us	understand	this phenomenon.								4
+OR
+(b)		Briefly explain various ways to increase the strength of magnetic field produced by a given solenoid.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

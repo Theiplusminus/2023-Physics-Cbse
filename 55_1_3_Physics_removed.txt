@@ -1,0 +1,316 @@
+General Instructions :
+Read the following instructions very carefully and strictly follow them :
+(i) This question paper contains 35 questions. All questions are compulsory.
+(ii) This question paper is divided into five Sections	A, B, C, D and E.
+(iii) In Section A	Questions no. 1 to 18 are Multiple Choice (MCQ) type questions, carrying 1 mark each.
+(iv) In Section B	Questions no. 19 to 25 are Very Short Answer (VSA) type questions, carrying 2 marks each.
+(v) In Section C	Questions no. 26 to 30 are Short Answer (SA) type questions, carrying 3 marks each.
+(vi) In Section D	Questions no. 31 to 33 are Long Answer (LA) type questions carrying 5 marks each.
+(vii) In Section E	Questions no. 34 and 35 are case-based questions carrying
+4 marks each.
+(viii) There is no overall choice. However, an internal choice has been provided in 2 questions in Section B, 2 questions in Section C, 3 questions in Section D and 2 questions in Section E.
+(ix) Use of calculators is not allowed.
+Use the following values of physical constants, if required :
+c = 3	108 m/s
+h = 6.63	10 34 Js
+e = 1.6	10 19 C
+0 = 4	10 7 T m A 1
+0 = 8.854	10 12 C2 N 1 m 2
+1	= 9	109 N m2 C 2
+4	0
+Mass of electron (me) = 9.1	10 31 kg
+Mass of neutron = 1.675	10 27 kg
+Mass of proton = 1.673	10 27 kg
+6.023	1023 per gram mole
+Boltzmann constant = 1.38	10 23 JK 1
+
+SECTION A
+
+1. In the energy-band diagram of n-type Si, the gap between the bottom of the conduction band EC and the donor energy level ED is of the order of :
+(a) 10 eV	(b)	1 eV
+(c)	0 1 eV	(d)	0 01 eV
+
+2. A steady current flows through a metallic wire whose area of cross-section (A) increases continuously from one end of the wire to the other. The magnitude of drift velocity (vd) of the free electrons as a
+
+
+(a) (b)	(c)	(d)
+
+3. An ac source of voltage is connected in series with a p-n junction diode and a load resistor. The correct option for output voltage across load resistance will be :
+
+
+4. Hydrogen atom initially in the ground state, absorbs a photon which excites it to n = 5 level. The wavelength of the photon is :
+(a) 975 nm	(b)	740 nm
+(c)	523 nm	(d)	95 nm
+
+5. In the process of charging of a capacitor, the current produced between the plates of the capacitor is :
+
+(a)
+
+
+(c)
+
+d E	(b)
+0  dt
+
+d E	(d)
+0  dt
+
+ 1  d E
+0	dt
+
+ 1  d E
+0	dt
+
+where symbols have their usual meanings.
+
+6. In an experiment, photons of energy 7·5 eV are incident on a metal surface. Electrons emitted from the metal surface are stopped by an electrode at a potential of  4·5 V w.r.t. the metal. The work function of the metal is :
+(a) 3·0 eV	(b)   4·5 eV
+(c)   7·5 eV	(d)   12·0 eV
+
+
+7. A circular coil of radius 8 0 cm and 40 turns is rotated about its vertical
+diameter with an angular speed of 25 rad s 1 in a uniform horizontal magnetic field of magnitude 3 0  10 2 T. The maximum emf induced in the coil is :
+(a) 0·12 V	(b)   0·15 V
+(c)   0·19 V	(d)   0·22 V
+
+8. Two nuclei have their mass numbers in the ratio of 8 : 1. The ratio of their nuclear densities is :
+(a) 8 : 1	(b)   4 : 1
+(c)   2 : 1	(d)   1 : 1
+
+9. A p	 
+axis, experiences a force F	
+on the charge will be :
+
+
+(a)
+
+
+(c)
+
+	
+F	(b)	F
+16	8
+
+F	(d)	F
+4	2
+
+
+10. The number of electrons flowing through a conductor per second is 3·3	1019. The current flowing through the conductor is :
+(a) 2·0 A	(b)	3·4 A
+(c)	4·8 A	(d)	5·3 A
+
+11. When an intrinsic semiconductor is doped with a small amount of trivalent impurity, then :
+(a) its resistance increases.
+(b) it becomes a p-type semiconductor.
+(c) there will be more free electrons than holes in the semiconductor.
+(d) dopant atoms become donor atoms.
+
+12. A diamagnetic substance is brought near the north or south pole of a bar magnet. It will be :
+(a) repelled by both the poles.
+(b) attracted by both the poles.
+(c) repelled by the north pole and attracted by the south pole.
+(d) attracted by the north pole and repelled by the south pole.
+
+13. Which of the following pairs of media has the least value of critical angle ?
+(a) Glass to air	(b)	Glass to water
+(c)	Diamond to water	(d)	Diamond to air
+
+14. A bar magnet is dropped in a hollow metallic cylinder along its vertical axis. The acceleration of the falling magnet will be :
+(a) zero	(b)	equal to g
+(c)	less than g	(d)	greater than g
+
+15. The correct graph showing the variation of the resistance (R) of a cylindrical metal wire as a function of its radius (r), keeping its length and temperature constant, is :
+
+
+(a) (b)	(c)	(d)
+
+Questions number 16 to 18 are Assertion (A) and Reason (R) type questions. Two statements are given	one labelled Assertion (A) and the other labelled Reason
+(R). Select the correct answer from the codes (a), (b), (c) and (d) as given below.
+
+(a) Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A).
+(b) Both Assertion (A) and Reason (R) are true, but Reason (R) is not
+the correct explanation of the Assertion (A).
+(c) Assertion (A) is true, but Reason (R) is false.
+(d) Assertion (A) is false and Reason (R) is also false.
+
+16. Assertion (A) : Photoelectric effect demonstrates the particle nature of light.
+Reason (R) :  Photoelectric current is proportional to intensity of incident radiation for frequencies more than the threshold frequency.
+17. Assertion (A) : When a bar of copper is placed in an external magnetic field, the field lines get concentrated inside the bar.
+Reason (R) :	Copper is a paramagnetic substance.
+
+18. Assertion (A) : The phase difference between any two points on a wavefront is zero.
+Reason (R) :  All points on a wavefront are at the same distance from the source and thus oscillate in the same phase.
+
+SECTION B
+19. The radii of curvature of the faces of a double-convex lens are 20 cm and
+
+30 cm. Its power is
+
+25 D. What is the refractive index of the glass of the
+6
+
+lens ?	2
+20. Briefly explain how the diffusion and drift currents contribute to the formation of potential barrier in a p-n junction diode.	2
+21. An alpha particle is projected with velocity v = (3·0 105 m/s) ^i into a region in which magnetic field B = [(0·4 T) ^i + (0·3 T) ^j ] exists. Calculate the acceleration of the particle in the region. ^i , ^j and ^k are
+unit vectors along x, y and z axis respectively and charge to mass ratio
+for alpha particle is 4·8	107 C/kg.	2
+22. The ground state energy of hydrogen atom is	13·6 eV in Bohr model. An electron makes a transition from an energy level of	1·51 eV to that of
+3·4 eV. Calculate the wavelength of the spectral line emitted.	2
+
+23. (a)
+
+
+								
+propagation	of	a	plane	wave	refracting	at	a	plane	surface
+          2
+OR
+
+
+(b)	Why is a reflecting telescope preferred over a refracting telescope ? Justify your answer giving two reasons.	2
+24. Identify the part of electromagnetic spectrum which is :
+(a) next	to	the	lowest	frequency	end	of	the	visible	part	of electromagnetic spectrum, and
+(b) produced by bombarding a metal target by high energy electrons.
+Give one use of each of them.	2
+25. (a)	Differentiate between intrinsic and extrinsic semiconductors.	2
+OR
+(b)	Draw the circuit arrangement for studying the V	I characteristics of a p-n junction diode in forward bias and reverse bias. Show the
+plot of V	I characteristic of a silicon diode.	2
+SECTION C
+26. An ac voltage v = vm sin  t (vm = 310 V and f = 50 Hz) is connected to a pure capacitor of capacitance 15 F. Calculate (i) the reactance of the capacitor, and (ii) the amplitude of the current. Write the expression of
+current through the capacitor as a function of time.	3
+
+27. (a)	Draw the energy level diagram for hydrogen atom. Mark the transitions corresponding to the series lying in the ultraviolet region, visible region and infrared region.	3
+OR
+(b)	Draw a diagram to show the variation of binding energy per nucleon with mass number for different nuclei and mention its two features. Why do lighter nuclei usually undergo nuclear fusion ?	3
+28. Three point charges Q1 ( 15	C), Q2 (10	C) and Q3 (16	C) are located at (0 cm, 0 cm), (0 cm, 3 cm) and (4 cm, 3 cm) respectively. Calculate the
+electrostatic potential energy of this system of charges.	3
+29. (a)	How does the resistance differ from impedance ? With the help of a suitable phasor diagram, obtain an expression for impedance of a series LCR circuit, connected to a source v = vm sin	t.	3
+OR
+(b)  Find the condition for resonance in a series LCR circuit connected to a source v = vm sin t, where can be varied. Give the factors on which the resonant frequency of a series LCR circuit depends. Plot
+a graph showing the variation of electric current with frequency in
+a series LCR circuit.	3
+30. A particle is associated with a de Broglie wave of wavelength 1 2 nm. The kinetic energy of the particle is made four times. Calculate the new value
+of the wavelength of the wave.	3
+SECTION D
+31. (a)	(i)	(1)	Write two points of difference between an interference pattern and a diffraction pattern.
+(2)	Name any two factors on which the fringe width in a
+-slit experiment depends.
+
+(ii) In Y    -slit experiment, the two slits are separated by a distance equal to 100 times the wavelength of light that passes through the slits. Calculate :
+(1) the angular separation in radians between the central maximum and the adjacent maximum.
+(2) the distance between these two maxima on a screen
+50 cm from the slits.	5
+OR
+(b)  (i)  A spherical surface of radius of curvature R separates two media of refractive indices n1 and n2. A point object is placed in front of the surface at distance u in medium of refractive index n1 and its image is formed by the surface at distance v, in the medium of  refractive index  n2.  Derive a relation
+between u and v.
+(ii) A solid glass sphere of radius 6 0 cm has a small air bubble trapped at a distance 3 0 cm from its centre C as shown in the figure. The refractive index of the material of the sphere is 1 5. Find the apparent position of this bubble when seen through the surface of the sphere from an outside point E in
+air.	5
+
+
+
+
+32. (a)	(i)
+form, for two charges.
+
+(ii)	erse-square dependence on
+
+
+(iii)Two charges A (charge q) and B (charge 2q) are located at points (0, 0) and (a, a) respectively. Let ^i and ^j be the unitvectors along x-axis and y-axis respectively. Find the force exerted by A on B, in terms of ^i and ^j .
+5OR(b)	(i)Derive an expression for the electric field at a point on theequatorial plane of an electric dipole consisting of charges qand	q separated by a distance 2a.(ii)The distance of a far off point on the equatorial plane of anelectric dipole is halved. How will the electric field be affectedfor the dipole ?(iii)Two identical electric dipoles are placed along the diagonals ofa square ABCD of side	2 m as shown in the figure. Obtainthe magnitude and direction of the net electric field at thecentre (O) of the square.5
+
+
+33. (a)	(i)	State Biot-	
+carrying element. Use this law to obtain an expression for the
+
+           . Draw the magnetic field lines for a current loop indicating the direction of magnetic field.
+
+(ii) An electron is revolving around the nucleus in a circular orbit
+with a speed of 107 m s 1. If the radius of the orbit is 10 10 m, find the current constituted by the revolving electron in the
+orbit.	5
+OR
+(b) (i) Derive an expression for the force acting on a current carrying straight conductor kept in a magnetic field. State the rule which is used to find the direction of this force. Give the condition  under  which  this  force  is  (1)  maximum,  and
+(2) minimum.
+(ii)  Two long parallel straight wires A and B are 2 5 cm apart in air. They carry 5 0 A and 2 5 A currents respectively in opposite directions. Calculate the magnitude of the force
+exerted by wire A on a 10 cm length of wire B.	5
+
+SECTION E
+34. The following figure shows a circuit diagram. We can find the currents through and potential differences across different resistors using Kirchhoff
+
+
+
+
+Answer the following questions based on the above :
+
+(a) Which points are at the same potential in the circuit ?	1
+
+(b) What is the current through arm bg ?	1
+
+(c) Find the potential difference across resistance R3.	2
+OR
+
+(c)	What is the power dissipated in resistance R2 ?	2
+
+
+35. Strontium titanate is a rare oxide  a natural mineral found in Siberia. It is used as a substitute for diamond because its refractive index and critical angle are 2 41 and 24 5 , respectively, which are approximately equal to the refractive index and critical angle of diamond. It has all the properties of diamond. Even an expert jeweller is unable to differentiate between diamond and strontium titanate. A ray of light is incident normally on one face of an equilateral triangular prism ABC made of strontium titanate.
+
+
+
+
+Answer the following questions based on the above :
+(a) Trace the path of the ray showing its passage through the prism.	1
+(b) Find the velocity of light through the prism.	1
+(c) Briefly explain two applications of total internal reflection.	2
+OR
+(c)	Define total internal reflection of light. Give two conditions for it.	2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,307 @@
+General Instructions :
+Read the following instructions very carefully and strictly follow them :
+(i) This question paper contains 35 questions. All questions are compulsory.
+(ii) This question paper is divided into five Sections	A, B, C, D and E.
+(iii) In Section A	Questions no. 1 to 18 are Multiple Choice (MCQ) type questions, carrying 1 mark each.
+(iv) In Section B	Questions no. 19 to 25 are Very Short Answer (VSA) type questions, carrying 2 marks each.
+(v) In Section C	Questions no. 26 to 30 are Short Answer (SA) type questions, carrying 3 marks each.
+(vi) In Section D	Questions no. 31 to 33 are Long Answer (LA) type questions carrying 5 marks each.
+(vii) In Section E	Questions no. 34 and 35 are case-based questions carrying
+4 marks each.
+(viii) There is no overall choice. However, an internal choice has been provided in 2 questions in Section B, 2 questions in Section C, 3 questions in Section D and 2 questions in Section E.
+(ix) Use of calculators is not allowed.
+Use the following values of physical constants, if required :
+c = 3	108 m/s
+h = 6.63	10 34 Js
+e = 1.6	10 19 C
+0 = 4	10 7 T m A 1
+0 = 8.854	10 12 C2 N 1 m 2
+1	= 9	109 N m2 C 2
+4	0
+Mass of electron (me) = 9.1	10 31 kg
+Mass of neutron = 1.675	10 27 kg
+Mass of proton = 1.673	10 27 kg
+6.023	1023 per gram mole
+Boltzmann constant = 1.38	10 23 JK 1
+
+SECTION A
+
+1. A voltage signal is described by :
+
+v = V0	for
+
+= 0	for
+
+0	t	T
+2
+T	t	T 2
+
+for a cycle. Its rms value is :
+(a)	V0
+
+(b)	V0
+(c)	V0 2
+(d)	V0
+
+2. The ratio  of  maximum  frequency  and  minimum  frequency  of  light
+
+(a) 11
+9
+(b) 9
+5
+(c)  	11
+7
+(d) 	16
+7
+3. At a certain temperature in an intrinsic semiconductor, the electrons and holes concentration is 1·5 1016 m 3. When it is doped with a trivalent dopant, hole concentration increases to 4·5   1022 m 3. In the doped
+semiconductor, the concentration of electrons (ne) will be :
+(a) 3	106 m 3
+(b) 5	107 m 3
+(c) 5	109 m 3
+(d) 6·75	1038 m 3
+
+4. An infinitely long uniformly charged wire produces an electric field of
+18	104 NC 1 at a distance of 1·0 cm. The linear charge density on the wire is :
+(a)	1·12	10 14 Cm 1	(b)	3·08	10 15 Cm 1
+(c)	1·0	10 9 Cm 1	(d)	1·0	10 7 Cm 1
+5. At 0 K, the resistivity of an intrinsic semiconductor is :
+(a) same as that at 0 C	(b)	same as that at 300 K
+(c)	zero	(d)	infinite
+6. Light of frequency 6·4  1014 Hz is incident on a metal of work function 2·14 eV. The maximum kinetic energy of the emitted electrons is about :
+(a) 0·25 eV
+(b) 0·51 eV
+(c) 1·02 eV
+(d) 0·10 eV
+7. In an experiment on photoelectric effect, the intensity of incident radiation is increased, keeping the frequency v the same. The number of photoelectrons emitted will :
+(a) increase	(b)   decrease
+(c)   remain same	(d)   depend on frequency
+8. The SI unit of mobility of charge carriers is :
+(a) s 1	(b)	m2 V 1 s 1
+(c)	m s 1 V 1	(d)	m
+9. An inductor, a capacitor and a resistor are connected in series across an ac source of voltage. If the frequency of the source is decreased gradually, the reactance of :
+(a) both the inductor and the capacitor decreases.
+(b) inductor decreases and the capacitor increases.
+(c) both the inductor and the capacitor increases.
+(d) inductor increases and the capacitor decreases.
+
+10. In a moving coil galvanometer, the deflecting torque	acting on the coil is related to the current I flowing through it as :
+(a) I3	(b)	I2
+(c)	I	(d)
+
+11. In the wave picture of light, the intensity I of light is related to the amplitude A of the wave as :
+(a) I
+(b) I	A
+(c) I	A2
+(d) I	1
+A2
+
+12. Electromagnetic waves of wavelength of the order of a few meters were first produced and detected in the laboratory by :
+(a) J.C. Maxwell	(b)	J.C. Bose
+(c)	H.R. Hertz	(d)	G. Marconi
+
+13. The emf and internal resistance of a cell are E and r respectively. It is connected across an external resistance R = 2r. The potential drop across the terminals of the cell will be :
+
+(a)
+
+E	(b)	E
+4	2
+
+(c) 2 E
+3
+(d) 
+E
+3
+
+
+14. In a single-slit diffraction experiment, the width of the slit is halved. The width of the central maximum, in the diffraction pattern, will become :
+(a) half
+(b) twice
+(c) four times
+(d) one-fourth
+
+15. Which of the following graphs correctly represents the variation of the magnitude of the magnetic field outside a straight infinite current
+
+the wire ?
+
+(a) (b)	(c)	(d)
+
+Questions number 16 to 18 are Assertion (A) and Reason (R) type questions. Two statements are given	one labelled Assertion (A) and the other labelled Reason
+(R). Select the correct answer from the codes (a), (b), (c) and (d) as given below.
+(a) Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A).
+(b) Both Assertion (A) and Reason (R) are true, but Reason (R) is not
+the correct explanation of the Assertion (A).
+(c) Assertion (A) is true, but Reason (R) is false.
+(d) Assertion (A) is false and Reason (R) is also false.
+
+16. Assertion (A) : When radius of a circular loop carrying a steady current is doubled, its magnetic moment becomes four times.
+Reason (R):	The magnetic moment of a circular loop carrying a steady current is proportional to the area of the loop.
+
+
+17. Assertion (A):	The nucleus
+
+7X is more stable than the nucleus
+
+4Y .
+
+
+Reason (R):
+
+7X contains more number of protons.
+
+
+
+18. Assertion (A) : The internal resistance of a cell is constant.
+Reason (R) :	Ionic concentration of the electrolyte remains same during use of a cell.
+
+SECTION B
+
+19. How is the width of depletion layer of a p-n junction diode affected when
+it is (i) forward biased, and (ii) reverse biased ? Justify your answers.	2
+20. Explain the property of a p-n junction which makes it suitable for rectifying alternating voltages. Differentiate between a half-wave and a
+full-wave rectifier.	2
+21. (a)  Draw a graph showing the variation of binding energy per nucleon as a function of mass number A. The binding energy per nucleon for heavy nuclei (A  170) decreases with the increase in mass number.
+Explain.	2
+OR
+(b)	th
+stable orbit in a hydrogen atom.	2
+22.                     
+this current is different from a conduction current.	2
+23. Two wires of equal lengths are shaped in the form of a square loop and a circular loop. Both loops are suspended in a uniform magnetic field. Prove
+that for the same current, the circular loop will experience larger torque.	2
+24. (a)	State Huyg	       Huygens explain the absence of
+the backwave ?	2
+OR
+(b)	 
+by (i) concave mirror, and (ii) a convex lens.	2
+25. The refractive indices of two media A and B are 2 and	respectively.
+What is the critical angle for their interface ?	2
+
+SECTION C
+
+26. (a)  A particle of mass m and charge q is accelerated through a potential difference V. Plot a graph of de Broglie wavelength  associated with it as a function of V.
+(b)	Calculate the	energy		acquired		by	and	de Broglie		wavelength associated	with,	an	electron	accelerated	through	a	potential difference of 400 V.											3
+27. (a)	An ac source v = vm sin	t is connected across an ideal capacitor.
+Derive the expression for the (i) current flowing in the circuit, and
+(ii) reactance of the capacitor. Plot a graph of current i versus	t.	3
+OR
+(b)  A series combination of an inductor L, a capacitor C and a resistor R is connected across an ac source of voltage in a circuit. Obtain an expression for the average power consumed by the circuit. Find power factor for (i) purely inductive circuit, and (ii) purely resistive
+circuit.	3
+28. (a)	(i)	Prove that the nuclear density is same for all nuclei.
+(ii)	Draw a plot of potential energy of a pair of nucleons as a function of their separation. Draw two inferences from this plot.	3
+OR
+(b) (i) Draw a graph to show the variation of the number of scattered particles detected (N) in Geiger-Marsden experiment as a function of scattering angle ( ).
+(ii)	Discuss briefly two conclusions that can be drawn from this graph and how they lead to the discovery of nucleus in an atom.	3
+
+29. A rectangular loop of sides 25 cm and 20 cm is lying in x-y plane. It is
+subjected to a magnetic field B	= (5t2 + 2t + 10) ^k , where B is in Tesla and t is in seconds. If the resistance of the loop is 4	, find the emf
+induced and the induced current in the loop at t = 5 s.	3
+
+
+30. 
+V and R can be varied. If the current that flows in the circuit is I, draw a plot showing the variation of power consumed by the resistor as a
+function of :	3
+
+(a) R, keeping V constant
+
+(b) I, keeping R constant
+
+(c) V, keeping R constant
+
+SECTION D
+
+
+31. (a) (i) Write the principle and explain the working of a moving coil galvanometer. A galvanometer as such cannot be used to measure the current in a circuit. Why ?
+(ii) Why is the magnetic field made radial in a moving coil galvanometer ? How is it achieved ?	5
+OR
+(b)	(i)	Derive an expression for magnetic field on the axis of a current carrying circular loop.
+(ii)	Write any two points of difference between a diamagnetic and
+a paramagnetic substance.	5
+
+32. (a)	(i)	Draw a ray diagram showing the formation of a real image of
+, obtain the relation for the
+(ii) A 1·8 m tall person stands in front of a convex lens of focal length 1 m, at a distance of 5 m. Find the position and height
+of the image formed.	5
+OR
+(b)  (i)  Draw a ray diagram showing refraction of a ray of light through a triangular glass prism. Hence, obtain the relation for the refractive index ( ) in terms of angle of prism (A) and angle of minimum deviation ( m).
+(ii) The radii of curvature of the two surfaces of a concave lens are 20 cm each. Find the refractive index of the material of the
+lens if its power is  5·0 D.	5
+33. (a)	(i)	Define electric flux and write its SI unit. (ii)		
+due to a uniformly charged infinite plane sheet.
+(iii) A cube of side L is kept in space, as shown in the figure. An
+electric field E = (Ax + B) ^ N exists in the region. Find the
+i	C
+net charge enclosed by the cube.	5
+
+OR
+
+
+(b) (i)	Define electric potential at a point and write its SI unit.
+
+(ii) Two capacitors are connected in series. Derive an expression of the equivalent capacitance of the combination.
+(iii) Two point charges + q and  q are located at points (3a, 0) and (0, 4a) respectively in x-y plane. A third charge Q is kept at the origin. Find the value of Q, in terms of q and a, so that the
+electrostatic potential energy of the system is zero.	5
+SECTION E
+34. Diffraction of light is bending of light around the corners of an object whose size is comparable with the wavelength of light. Diffraction actually defines the limits of ray optics. This limit for optical instruments is set by the wavelength of light. An experimental arrangement is set up to observe the diffraction pattern due to a single slit.
+Answer the following questions based on the above :
+(a) How	will	the	width	of	central	maximum	be	affected	if	the wavelength of light is increased ?						1
+(b) Under what condition is the first minimum obtained ?	1
+(c) Write two points of difference between interference and diffraction patterns.	2
+OR
+(c)  Two students are separated by a 7 m partition wall in a room 10 m high. If both light and sound waves can bend around obstacles, how is it that the students are unable to see each other even though they
+can converse easily ?	2
+
+35. A beam of electrons moving horizontally with a velocity of 3  107 m/s enters a region between two plates as shown in the figure. A suitable potential difference is applied across the plates such that the electron beam just strikes the edge of the lower plate.
+
+
+Answer the following questions based on the above :
+
+(a) How long does an electron take to strike the edge ?	1
+
+(b) What is the shape of the path followed by the electron and why ?	1
+(c) Find the potential difference applied.	2
+OR
+(c)	Find the magnitude and direction of the magnetic field which should be created in the space between the plates so that the electron beam goes straight undeviated.	2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
