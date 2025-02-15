@@ -1,0 +1,381 @@
+Practice Questions SESSION: 2022-23
+Class: XII Subject: PHYSICS
+
+Maximum marks: 70	Time Allowed: 3 hours
+
+General instructions:
+
+1. There are 35 questions in all. All questions are compulsory.
+2. This question paper has five sections: Section A, Section B, Section C, Section D and Section E. All the sections are compulsory.
+3. Section A contains eighteen MCQ of 1 mark each, Section B contains seven questions of 2 marks each, Section C contains five questions of 3 marks each, section D contains three long questions of 5 marks each and Section E contains two case study based questions of 4 marks each.
+4. There is no overall choice. However, an internal choice has been provided in section B, C, D and E. You have to attempt only one of the choices in such questions.
+5. Use of calculators is not allowed.
+
+
+Q.NoQuestionMarksSECTION AQ.1The image below shows two examples of electric field lines.
+
+
+
+Which of the following statements is true?
+
+A. The electric fields in both I and II arise due to a single positive point charge located somewhere on the left.
+B. The electric fields in both I and II can be created by negative charges located somewhere on the left and positive charges somewhere on the right.
+C. The electric field in I is the same everywhere but the electric field in II becomes stronger as we move from left to right.
+D. As you move from left to right, the electric fields in both I and II become stronger.1Q.2The capacitance of a capacitor is Co. It is connected to a battery of voltage V which charges the capacitor. With the capacitor still connected to the battery, a slab of dielectric material is introduced between the plates of the capacitor.1
+Which of the following explains the effect of the dielectric slab in the above situation?
+
+A. The electric field between the plates of the capacitor rises.
+B. The potential difference between the plates falls.
+C. The total charge on the capacitor increases.
+D. The ability of the capacitor to store charge decreases.Q.3In a given region, electric potential varies with position as V(x)=3+2x2. Identify which of the following statements is correct.
+A. Potential difference between the two points x = 2 and x = -2 is 2 V.
+B. A charge of 1 C placed at x = 2 experiences a force of 6 N.
+C. The force experienced by the above charge is along +x - axis.
+D. The electric field in the given region is non-uniform along x - axis.1Q.4Two statements are given-one labelled Assertion (A) and the other labelled Reason (R).
+
+Select the correct answer to these questions from the codes (A), (B), (C), and
+(D) as given below.
+
+Assertion: As the temperature of a conducting wire increases, the drift velocity of the electrons also increases.
+Reason: With an increase in temperature, the average time of collision increases.
+
+A. Both A and R are true and R is the correct explanation of A.
+B. Both A and R are true and R is NOT the correct explanation of A.
+C. A is true but R is false.
+D. A is false and R is also false.1Q.5A wire of length L carrying a current I can be turned into a circular loop of N turns. For what value of N, will the magnetic moment of this current-carrying loop be maximum?
+
+A. one
+B. 4pL
+C. infinite
+D. (Magnetic moment is a constant for a given L and is independent of N)1Q.6A deuteron and an alpha particle move with the same kinetic energy under the effect of identical magnetic fields.
+What will be the ratio of the radii of their paths followed?
+
+A. 1
+B. v2
+C. 1/21
+D. 2Q.7Two blocks of different materials are placed in a uniform magnetic field B. The magnetic field lines passing through the two blocks are represented as follows.
+
+:
+Identify the suitable values of relative permeability µr and magnetic susceptibility ? for the materials I and II.
+
+A. For I : µr > 1, ? < 0, For II : µr < 1, ? > 0
+
+B. For I : µr < 1, ? = 0, For II : µr > 1, ? = 0
+
+C. For I : µr = 0, ? = 1, For II : µr = 1, ? = 0
+
+D. For I : µr < 1, ? < 0, For II : µr > 1, ? > 01Q.8There is a pair of concentric and coplanar conducting loops of radii R1 and R2 such that R2 = 0.01 R1.
+To which of the following is the mutual inductance M for this pair directly proportional?
+
+A. 1/R 2
+1
+B. R 2
+1
+C. 1/R1
+D. R11Q.9A 5 ohm resistor, a 5 mH inductor and a 5 µF capacitor, joined in series resonate with an ac source of frequency ?o. If only the resistance is changed to 10 ohm, the circuit resonates at a frequency ?1. If only the inductor is changed to 20 mH, the circuit resonates at a frequency ?2. Find the ratio ?1/?2.
+
+A. 0.5
+B. 1
+C. 2
+D. 41Q.10Which of the ac circuits with the following input voltage and current dissipates maximum power P?
+
+A. Input voltage Vo = 2 volt, Io = 4 ampere and phase angle F = p/4.
+B. Input voltage V = Vo sin?t volt and the current I = Io sin(?t - p/2) ampere
+C. Input voltage V = 2 cos?t volt and the current I = 4 sin?t ampere1
+D.
+Input voltage V = 100 sin100t volt and the current I = 100 sin(100t
++p/3) milliampereQ.11The diagram below shows the electric field (E) and magnetic field (B) components of an electromagnetic wave at a certain time and location.
+
+
+
+What is the direction of propagation of the em wave?
+
+A. perpendicular to E and B and out of the plane of the paper
+B. perpendicular to E and B and into the plane of the paper
+C. parallel and in the same direction as E
+D. parallel and in the same direction as B1Q.12Two statements are given-one labelled Assertion (A) and the other labelled Reason (R). Select the correct answer to these questions from the codes (A), (B), (C), and (D) as given below.
+
+Assertion (A): Interference pattern has all maxima that are equally bright and bands are large in number in comparison to the diffraction pattern that has maxima of decreasing intensity and fewer in number.
+
+Reason (R): Interference is the result of the superposition of the waves from two different wavefronts whereas diffraction is the result of the superposition of the wavelets from different points of the same wavefront.
+
+A. Both A and R are true and R is the correct explanation of A
+B. Both A and R are true and R is NOT the correct explanation of A
+C. A is true but R is false
+D. A is false and R is also false1Q.13Under ideal conditions, consider two different sources of light producing identical waves that happen to be in phase with each other.
+
+The two sources are placed at the corners of a square. They broadcast waves uniformly in all directions.1
+Which of the following locations of the two sources will ensure that the waves always produce constructive interference at the center of the square?
+
+A. any two corners of the square
+B. only the adjacent corners of the square
+C. only corners across the diagonal of the square
+D. one source at the corner and the other at the centerQ.14Given below are two charged subatomic particles P and Q, that are accelerated through same potential difference V.
+Here,
+Masses: mP = mQ Charges: 1/2 qP = qQ
+
+
+Which of the two sub atomic particles will have longer de Broglie wavelength?
+
+A. Particle P, because it has the greater momentum
+B. Particle Q, because it has the greater momentum
+C. Particle P, because it has the smaller momentum
+D. Particle Q, because it has the smaller momentum1Q.15Assuming that the momentum of an electron is measured with complete accuracy, that is., the corresponding uncertainty in its momentum being zero, what is the uncertainty in a simultaneous measurement of the electron's position?
+
+A. zero
+B. unity
+C. infinitely large
+D. some finite value between unity and infinity1Q.16Each of the statements below are based on the properties of electron orbits in a hydrogen atom.
+Identify a statement that correctly satisfies the Bohr's model of an atom.
+
+A. The angular momentum of the orbiting electron is 3h/p.
+B. The potential energy of the electron in any stable orbit is positive.
+C. The radius of the second electron orbit is 2a0, where a0 is Bohr's radius.
+D. An amount of energy = -3.4 eV given to an electron in its second orbit will let it escape the atom.1Q.17Two statements are given-one labelled Assertion (A) and the other labelled Reason (R). Select the correct answer to these questions from the codes (A), (B), (C), and (B) as given below.
+
+Assertion (A) : The curve between the binding energy per nucleon versus mass number droops at high mass numbers (A>170) as well as at low mass numbers (A<30).1
+Reason (R) : Nuclei with middle mass numbers (30<A<170) have higher binding energy per nucleon.
+
+A. Both A and R are true and R is NOT the correct explanation of A.
+B. Both A and R are true and R is the correct explanation of A.
+C. A is false and R is also false.
+D. A is true but R is false.Q.18In an ON state, the individual Silicon and Germanium diodes, allow a voltage drop of 0.7 V and 0.3 V respectively across them. In the circuit shown, the Si and the Ge diode, are connected in a parallel combination to a voltage source of 10V.
+
+
+
+What is the voltage Vo for the circuit network?
+
+A. 0 volt
+B. 9.3 volt
+C. 9.7 volt
+D. 10 volt1SECTION BQ.19(a) If electric field strength at a point is zero at a given point, then what can you say about the electric potential at that point? Explain.
+(b) In the two instances below, state whether electric field intensity and electric potential are zero or non-zero at the mid-point joining the two-point charges.
+
+2Q.20As shown below, a magnetic dipole moment is oriented in 3 different ways in a uniform magnetic field.2
+
+
+(a) Which orientation results in the largest magnetic torque on the dipole?
+(b) Which orientation has the largest potential energy?
+
+Give a reason for your answer.Q.21A capacitor consists of two parallel plates, with an area of cross-section of
+0.001 m2, separated by a distance of 0.0001 m. If the voltage across the plates varies at the rate of 108 V/s, determine the value of displacement current through the capacitor.2Q.22The critical angle for the total internal reflection of diamond in air is 24o. State whether the two statements given here are correct or incorrect. Give a reason for your answer.
+
+(a) The critical angle for total internal reflection of diamond is more than 24o when surrounded by water.
+
+(b) The sparkle of the diamond increases remarkably when placed in water.2Q.23Estimate the number of dark fringes on the either side of the central maximum that can be produced by diffraction set up with slit of width 5 x 10-6 m and incident light of wavelength 600 nm.2Q.24By what factor does kinetic and potential energy of an electron in a hydrogen atom change as it moves from n = 1 to n =3?
+
+OR
+
+(a) Multiplication factor or reproduction factor K for a nuclear reactor is defined as number of fission reactions produced by a given generation of neutrons to the number of fission reactions in the preceding generation. What should be the value of K for the following purposes?
+
+i. To keep the nuclear fission reaction self-sustaining
+ii. To switch off the nuclear reactor
+
+(b) Why are moderators more effective in slowing the fast moving neutrons instead of abundant 238U atoms found in the naturally occurring U sample?2Q.25In the circuit containing an ideal PN diode D and a resistor R is given an input square wave as shown.2
+
+
+(a) What is the shape of the output waveform across diode D?
+(b) Give an explanation for your answer in (a)
+
+OR
+
+Categorize each of the following junction diodes as either forward biased or reverse biased. Give reason for each answer.
+
+
+SECTION CQ.26An alpha particle is moving with a velocity v. It enters a magnetic field (B) as shown below. The magnetic field is perpendicular and into the plane of paper.
+
+.
+A uniform electric field is applied in the same region as the magnetic field so that the alpha particle passes undeviated through the combined fields.
+
+(a) What should be the direction of the electric field?2
+
+(b) Without any change in the electric and magnetic field, the alpha particle is replaced by the following particles:
+(i) proton moving with a velocity v
+(ii) electron moving with a velocity v/2
+Will there be any change a deviation in the path of the particles? Give a reason for your answer.Q.27Coil 1 has self-inductance L1 which is 3 times the self-inductance L2 of coil 2. If during a certain instant, the rate of increase in current and the power dissipated in these two coils is the same, then determine the ratio of
+
+(a) their induced voltages
+(b) currents
+(c) energy stored in the two coils at that instant.3Q.28A bulb is connected through a capacitor in an ac circuit as in the circuit (i). The bulb in the circuit glows when the frequency of the input ac voltage is ?.
+
+
+Circuit (i)
+
+A circuit (ii) is constructed by including an inductor L as shown, keeping all other components the same as in circuit (i). The bulb continues to glow when the frequency of the input ac voltage is ?.
+
+
+
+Circuit (ii)
+
+Now the frequency ? of the ac supply is changed in both the circuits while keeping the voltage amplitude constant and same in both the circuits.
+Explain the effect on the brightness of the bulb in each circuit if
+(a) the frequency of input ac voltage is lowered3
+(b) the frequency of input ac voltage is increased
+(c) the frequency of input ac voltage approaches zero
+
+OR
+
+A series LCR circuit as shown in the diagram is connected to an input ac voltage. The voltage across the capacitor lags the applied input voltage by 45o.
+
+
+
+(a) Represent the phase relationship for the voltages across the three elements L, C and R using a phasor diagram.
+(b) Determine the phase angle F in the given circuit.
+(c) Determine the value of inductor L.Q.29(a) Mention one proposition that is predicted as per wave theory of light but discarded on the basis of the actual experimental observation in the phenomenon of photoelectric emission.
+
+(b) A cat is able to see in low light intensity situations by virtue of its large sized pupils of diameter ~ 16 mm and due to the presence of excess number of cone cells on its retina. They can detect light of intensity I as low as ~ 10-10 W/m2.
+If intensity I of light is defined as energy of radiation times the number of photons per unit area, then determine the minimum number of incident photons per second of wavelength 600 nm that are required in a radiation to be detected by a cat's eye? Take hc ~ 2 x 10-16 J-nm.
+
+OR
+
+(a) Give reason: A radiation of wavelength ? < ?threshold incident on a metal sphere placed on an insulated stand results in the emission of photoelectrons for some time and then stops.
+
+(b) In the photoelectric experiment apparatus containing the collector and the emitter plate, a saturated photoelectron current is observed. If an external electric field is applied in the direction opposite to the motion of the photoelectrons, what is the change observed in each of the following? Give reasons.
+
+i. The saturation value of the photocurrent
+ii. The kinetic energy of the photoelectrons striking the collector plate3Q.30a. A glass container contains hydrogen atoms with all its atoms in their ground states. The container is irradiated with electromagnetic waves containing3
+wavelengths corresponding to Lyman, Balmer and Paschen series. The electromagnetic waves exiting the glass container are found to have certain strong absorption spectral lines. Identify one or more series to which these absorption spectral lines would correspond to. Explain. Assume that once an electron absorbs a photon and jumps to a higher level, it does not absorb more photons to jump to even higher levels.
+
+b. An electron in its orbit undergoes transitions across the energy levels either by absorbing or emitting the photons. A given hydrogen atom is in third excited state.
+
+Determine the final quantum number and the energy of the photon,
+
+i. when a photon with shortest wavelength is emitted
+ii. when a photon with longest wavelength is absorbed
+
+
+
+
+SECTION DQ.31(a) An unknown charge q is placed at the origin and another charge of 1 nano- coloumb is placed at position B(1,0,0). The x- component of the electric field due to these two charges at position A(2,1,2) is zero. Determine charge q.
+
+5
+
+
+(b) A given solid sphere of radius R made of an insulating material carries a charge q distributed uniformly throughout its volume. The potential due to this charge distribution as a function of distance r from the center of the sphere is given as:
+
+
+
+(i) At which location with respect to the sphere, is the potential V maximum in this case?
+(ii) In case the above sphere is made up of a conducting material instead of an insulating material, what would be your answer for part (a)? How is the charge q distributed across a charged conducting sphere?
+
+OR
+A parallel plate capacitor of capacitance C is charged to a potential V by a battery. Q is the charge stored on the capacitor. Without disconnecting the battery, the plates of the capacitor are pulled apart to a larger distance of separation.
+
+What changes will occur in each of the following quantities? Will they increase, decrease or remain the same? Give an explanation in each case.
+
+(a) Capacitance
+(b) Charge
+(c) Potential difference
+(d) Electric field
+(e) Energy stored in the capacitorQ.32a. In the circuit given below if I is the current entering the network of resistors of equal resistances,5
+
+
+i. Using Kirchhoff's rules, prove that current through the arm AC is equal to that in the arm CE. Show the distribution of the current diagrammatically.
+ii. Redraw the diagram to show the split in junction C without altering the current in any arm.
+
+b. In the circuit of two cells, each of emf E but different internal resistances are connected in series as shown in the diagram. Determine the external resistance R in terms of internals resistances r1 and r2, such that potential drop across the cell E1 is zero.
+
+
+
+OR
+
+(a) In the given dc circuit, a voltmeter whose resistance is 6000 ohm is used to measure the voltage drop across the 3000 ohm resistor. Determine the % difference in the voltmeter reading that is observed when compared to the true voltage across 3000 ohm resistor when the voltmeter is not connected.
+
+
+
+
+
+(b) In the circuit given, consider R1 = r, R2 = 2r and power supply of voltage V.
+
+
+
+
+Determine the power consumed by the circuit in each of the following instances:
+i. when the switch is open
+ii. when the switch is closed
+iii. while the switch is closed, the resistor R2 is heated so that its resistance is doubled.Q.33(a) In reference to the picture given here, a convex lens of focal length f(in air), is immersed in the water to view a small black stone that is placed at the bottom of the container is at a depth d from the lens.
+
+
+
+Will the stone in the water be visible as seen from above, for d = f or d < f or d > f ? Give reason for your answer.
+(b) In the given combination of three triangular prisms, a ray of light enters the first prism on the left and exits from prism on the right after refraction. Consider the angles of the prisms to be small and the ratio Ao/A = 2.
+
+
+5
+Prove that for a net deviation produced in the light ray to be zero, µ = µo in the given combination.
+
+(c) A glass prism of absolute refractive index of 1.52 is surrounded by a medium. The emergent rays are bent either upwards or downwards.
+
+
+
+Select the suitable surrounding mediums from the given table of refractive indices here for each of the above refractions through the prisms P and Q. Give reason for the choice of the mediums.MediumRefractive indexBenzene1.50Carbon disulphide1.63Ethyl alcohol1.36Aqueous sodium chloride1.54
+OR
+
+(a) The interference pattern due to light shows bright and dark regions that appear similar to the antinodes and nodes of a standing-wave pattern on a string. While both the patterns are based on the superposition principle, give one major point of difference between the standing waves pattern and the interference pattern.
+
+(b) Given two sets of slits S1 and S2.
+
+
+
+
+Also given are two possible incident light wavelengths ?1 and ?2.
+
+
+State with reason for what combination of the slits and wavelengths will the interference pattern be:
+i. most spread out
+ii. least spread out?
+
+(c) Determine the value of y at which the intensity of the fringe reduced to half the intensity of the central maxima formed at point O.SECTION EQ.34Case study: Refraction
+
+Refraction at a curved refracting surface of radius of curvature R is governed by curved surface formula that is given as
+
+
+
+
+
+For a plane refracting surface, the curved surface formula gets modified as: n2/v = n1/u .....(2)
+
+Consider a bird flying vertically downwards towards a fish inside the pond on the ground. At a given instant, if the true height of the bird is x from the plane surface of water, the bird will appear at a height y as seen by the fish in the water due to refraction of light through the plane air-water interface.4
+
+
+Also if the bird is flying down through a height x in time t, the fish will see the bird fall through a height y in the same time t.
+
+(a) Show how equation (1) gets modified to equation (2) for a plane refracting surfaces.
+
+(b) Use this modified surface formula for a plane refracting surface, in order to determine if, x = y, or x < y or x > y, for the fish in the water looking at the bird in the air.
+
+(c) Draw a ray diagram to show the position of the bird at a height y as seen by the fish in the water. Confirm the result obtained in (b) diagrammatically.
+OR
+Draw a diagram to show how the bird in the air sees the fish in the water. Is it near or farther from the surface of water as compared to the true depth d?
+
+(d) Does the fish see the bird flying towards it at a speed greater or lesser than the true speed? Justify the answer qualitatively only.Q.35Case study: Clipper circuits
+
+A half wave rectifier circuit is also known as a clipper. A clipper circuit removes either the positive half or negative half or a part of the input positive or negative cycles of the input AC signal.
+In a typical half wave rectifier circuit, as shown in the circuit diagram, only the positive half cycles are completely removed. This circuit is also known as the Series Positive Clipper.
+
+
+
+Similarly, just by reversing the diode, only the negative half cycles are removed. This is Series Negative Clipper circuit.4
+
+Now a Series Positive Clipper circuit can be modified by including a battery as shown here.
+
+
+During the positive input half cycle, the diode is reverse biased by the input supply voltage Vi. But since the positive terminal of the battery is connected to p-side and the negative terminal of the battery is connected to n-side of the diode, the diode is forward biased by the battery voltage VB.
+That means the diode is reverse biased by the input supply voltage (Vi) and forward biased by the battery voltage (VB). Initially, the input supply voltage Vi
+< VB , so VB dominates over the Vi . Hence, the diode is forward biased by the VB and allows electric current through it. As a result, the signal appears at the output.
+As soon as Vi becomes greater than VB, the diode is reverse biased. So no current flows through the diode.
+As a result, input signal does not appear at the output. Instead a constant voltage = VB appears across the output. So the clipping takes place during the positive half cycle, at the time the input Vi is greater than the VB.
+
+Now consider the negative input half cycle. The diode is forward biased by both VB and Vi. That means, during the negative half cycle, it doesn't matter whether the Vi is greater or less than the VB, the diode remains forward biased. So the complete negative half cycle appears at the output.
+Thus, the series positive clipper with positive bias clips a small portion of the positive half cycles in the output.
+
+Answer the following questions:
+
+(a) Draw the circuit diagram to represent the series clipper circuit with a negative bias.
+
+(b) Which part of the input ac cycle will get clipped in the case of series clipper circuit with a negative bias? Represent the clipped output waveform through
+this circuit.
+
+(c) Explain the output waveform during the positive input cycle in the series clipper circuit with a negative bias.
+OR
+Explain the output waveform during the negative input cycle in the series clipper circuit with a negative bias.
